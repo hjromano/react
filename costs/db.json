@@ -1,25 +1,158 @@
 {
-    "projects":[],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        
-        },
-        {
-            "id": 2,
-            "name": "Desenvolvimento"
-        
-        },
-        {
-            "id": 3,
-            "name": "Design"
-        
-        },
-          {
-            "id": 4,
-            "name": "Infra"
-        
-        }
-    ]
+  "projects": [
+    {
+      "id": "c957",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "7383",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "682c",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "e15c",
+      "name": "test",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "fb6f",
+      "name": "test",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "1cc2",
+      "name": "test",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "b83d",
+      "name": "test",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "44d4",
+      "name": "test",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "ae3f",
+      "name": "test",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "1a18",
+      "name": "higor",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "4720",
+      "name": "higor",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "6320",
+      "name": "higor",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "007c",
+      "name": "higor",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a46e",
+      "name": "higor",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
 }
