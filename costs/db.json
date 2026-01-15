@@ -135,6 +135,28 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "cdf0",
+      "name": "higuito",
+      "budget": "33333",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a279",
+      "name": "higo",
+      "budget": "222222",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
